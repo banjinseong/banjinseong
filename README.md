@@ -43,11 +43,6 @@
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"></img>
 </p>
 
-<h3 align="center">Server</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-</p>
-
 <br>
 <h2 align="center">📬Contacts</h2>
 <p align="center">
